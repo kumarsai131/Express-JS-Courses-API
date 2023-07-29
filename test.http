@@ -1,0 +1,25 @@
+GET http://localhost:8081/api/courses/5
+
+GET http://localhost:8081/users
+
+POST http://localhost:8081/api/courses
+Content-Type: application/json
+
+{
+    "id" : 4,
+    "name" : "Course 4"
+}
+
+PUT http://localhost:8081/api/courses/2
+Content-Type: application/json
+
+{ "id": 3, "name": "course three"}
+
+PATCH http://localhost:8081/api/courses/2
+Content-Type: application/json
+
+{ "name": "course two"}
+
+DELETE  http://localhost:8081/api/courses/5
+
+GET http://localhost:8081/users

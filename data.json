@@ -1,7 +1,1 @@
-[
-  { "id": 1, "name": "course1" },
-  { "id": 2, "name": "course2" },
-  { "id": 3, "name": "course3" },
-  { "id": 4, "name": "Course 4" },
-  { "id": 5, "name": "course 5" }
-]
+[{"id":1,"name":"course1","author":"NS"},{"id":2,"name":"course two","author":"MS"},{"id":3,"name":"course three","author":"Nk 1"},{"id":4,"name":"Course 4","author":"PS"}]
